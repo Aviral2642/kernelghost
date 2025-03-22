@@ -107,7 +107,6 @@ python examples/cs_integration.py --listen 443 --aes-key $(openssl rand -hex 32)
 |--------------------------|---------------------------------------------|
 | `TECHNICAL.md`           | Architecture, attack flows, internals       |
 | `DEPLOYMENT.md`          | Deployment checklist, OPSEC practices       |
-| `ATTACK-matrix.md`       | MITRE ATT&CK Tactics/Techniques Mapping     |
 
 ---
 
