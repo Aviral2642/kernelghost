@@ -1,13 +1,10 @@
 # 🔥 KernelGhost: Hypervisor & eBPF Rootkit Framework
 
-[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://github.com/yourusername/kernelghost/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/kernelghost/actions)
-[![CodeQL](https://github.com/yourusername/kernelghost/actions/workflows/codeql.yml/badge.svg)](https://github.com/yourusername/kernelghost/actions/workflows/codeql.yml)
 
 **Next-generation offensive security framework combining eBPF stealth and hypervisor-level exploitation**  
 *"When userland isn't enough and the kernel isn't safe"*
 
-![KernelGhost Demo](docs/demo.gif)
+
 
 ---
 
