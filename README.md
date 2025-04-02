@@ -50,7 +50,7 @@ sudo apt install linux-headers-$(uname -r) clang-15 bpftool qemu-kvm
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/kernelghost
+git clone https://github.com/Aviral2642/kernelghost.git
 cd kernelghost
 make all -j$(nproc)
 sudo make deploy
