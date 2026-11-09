@@ -1,5 +1,7 @@
 # 🔥 KernelGhost: Hypervisor & eBPF Rootkit Framework
 
+> **Maintenance status:** Historical research code from 2025. The examples have not been revalidated against current platforms or dependencies. Current vulnerability research is published in [AI Infrastructure Security](https://github.com/Aviral2642/ai-infra-security); see the [public profile](https://github.com/Aviral2642) for recent work.
+
 
 **Next-generation offensive security framework combining eBPF stealth and hypervisor-level exploitation**  
 *"When userland isn't enough and the kernel isn't safe"*
